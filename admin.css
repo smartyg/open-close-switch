@@ -1,0 +1,28 @@
+p.ocs-button
+{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0;
+}
+
+p.ocs-button .ui-icon
+{
+	display: inherit;
+	margin-right: 0.2em;
+	vertical-align: inherit;
+}
+
+p.ocs-button:hover
+{
+	text-decoration: underline;
+}
+
+.ocs-table-label
+{
+	width: 15%;
+}
+
+.form-table tr > td:first-child
+{
+	word-wrap: break-word;
+}
